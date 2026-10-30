@@ -3,7 +3,7 @@
 cp -r dots/. ~/
 
 # INSTALL APPS
-paru -Sy --needed --noconfirm base-devel zsh git github-cli mise neovim starship yazi zoxide atuin zsh-autosuggestions zsh-syntax-highlighting ttf-jetbrains-mono-nerd lsd bat fzf flatpak ghostty brave-bin discord bitwarden pear-desktop-bin visual-studio-code-bin stremio kvantum dolphin-emu claude-desktop opencode-desktop-bin
+paru -Sy --needed --noconfirm base-devel zsh git github-cli mise neovim starship yazi zoxide atuin zsh-autosuggestions zsh-syntax-highlighting ttf-jetbrains-mono-nerd lsd bat fzf flatpak ghostty brave-bin discord bitwarden obs-studio pear-desktop-bin visual-studio-code-bin stremio kvantum dolphin-emu claude-desktop opencode-desktop-bin
 
 
 # UNINSTALL UNUSED
