@@ -1,5 +1,3 @@
-config-file = "~/.local/state/omarchy/current/theme/ghostty.conf"
-
 theme = TokyoNight
 font-family = JetBrainsMono Nerd Font
 font-size = 13
