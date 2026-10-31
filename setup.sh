@@ -5,7 +5,7 @@ cp -r dots/. ~/
 # INSTALL APPS
 sudo pacman -Sy -needed --noconfirm paru
 
-paru -Sy --needed --noconfirm base-devel zsh git github-cli mise neovim starship yazi zoxide atuin zsh-autosuggestions zsh-syntax-highlighting ttf-jetbrains-mono-nerd lsd bat fzf flatpak ghostty brave-bin discord bitwarden obs-studio pear-desktop-bin visual-studio-code-bin stremio kvantum dolphin-emu claude-desktop opencode-desktop-bin
+paru -Sy --needed --noconfirm base-devel zsh git github-cli mise neovim starship yazi zoxide atuin zsh-autosuggestions zsh-syntax-highlighting ttf-jetbrains-mono-nerd lsd bat fzf flatpak ghostty brave-bin discord bitwarden obs-studio pear-desktop-bin visual-studio-code-bin stremio kvantum dolphin-emu claude-desktop opencode-desktop-bin affinity-bin
 
 
 # UNINSTALL UNUSED
@@ -16,10 +16,9 @@ chsh -s /bin/zsh
 echo -e "\e[32m\n¡Hecho! Ahora para las configuraciones dinamicas que se pueden romper con las actualizaciones pegale este prompt a un agente:\e[0m"
 
 echo '
-Estoy en CachyOS+KDE recién formateado y quiero que me configures las siguientes cosas:
+Estoy en CachyOS+KDE recién formateado y quiero que me hagas las siguientes tareas:
 - Instala Cloudflare Warp y configúralo todo para que esté listo para activarlo y desactivarlo cuando quiera
-- Instala Affinity de la manera más popular, óptima y aceptada posible
-- Instala Davinci Resolve Studio de la forma más popular, óptima y aceptada posible
+- Instala Davinci Resolve Studio de la forma más popular actualmente que es con el paquete de AUR davinci-resolve-studio.
 
-Si requieres de mi intervención para algo avisa.
+Investiga en internet cada cosa antes de proceder, ya que en una rolling release los procedimientos e issues suelen variar. Si requieres de mi intervención para algo avisa.
 '
