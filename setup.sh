@@ -20,5 +20,6 @@ Estoy en CachyOS+KDE recién formateado y quiero que me hagas las siguientes tar
 - Instala Cloudflare Warp y configúralo todo para que esté listo para activarlo y desactivarlo cuando quiera
 - Instala Davinci Resolve Studio de la forma más popular actualmente que es con el paquete de AUR davinci-resolve-studio.
 
-Investiga en internet cada cosa antes de proceder, ya que en una rolling release los procedimientos e issues suelen variar. Si requieres de mi intervención para algo avisa.
+Investiga en internet cada cosa antes de proceder, ya que en una rolling release los procedimientos suelen variar.
+Si requieres de mi intervención para algo avisa. Luego limpia todo residuo al acabar.
 '
