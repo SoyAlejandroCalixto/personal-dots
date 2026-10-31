@@ -5,7 +5,7 @@ cp -r dots/. ~/
 # INSTALL APPS
 sudo pacman -Sy -needed --noconfirm paru
 
-paru -Sy --needed --noconfirm base-devel zsh git github-cli mise neovim starship yazi zoxide atuin zsh-autosuggestions zsh-syntax-highlighting ttf-jetbrains-mono-nerd lsd bat fzf flatpak ghostty brave-bin discord bitwarden obs-studio pear-desktop-bin visual-studio-code-bin stremio kvantum dolphin-emu claude-desktop opencode-desktop-bin affinity-bin
+paru -Sy --needed --noconfirm base-devel zsh git github-cli mise neovim starship yazi zoxide atuin zsh-autosuggestions zsh-syntax-highlighting inter-font ttf-jetbrains-mono-nerd lsd bat fzf flatpak ghostty brave-bin discord bitwarden obs-studio pear-desktop-bin visual-studio-code-bin stremio kvantum dolphin-emu claude-desktop opencode-desktop-bin affinity-bin
 
 
 # UNINSTALL UNUSED
